@@ -1,0 +1,1 @@
+Das ist ein unverschluesselter Text, der im Wireshark automatisch decodiert wird.
